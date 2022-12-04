@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.n1,.text{
+    color: blueviolet;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.text{
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+}
